@@ -2,9 +2,9 @@
 
 Diary for my workout
 
-## Days
+## Log
 
-Day 1
+### Day 1
 - Push-ups:   20
 - Sit-ups:    20 
 - Squats:     20 
