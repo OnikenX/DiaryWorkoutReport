@@ -23,3 +23,11 @@ _REST_
 - run (km):   3.5
 
 Weight: 71.6 kg(after dinner)
+
+### Day 4
+- Push-ups: 30
+- Sit-ups:  30
+- Squats: 0
+- run: 2 km
+
+Weight: 73 kg(after dinner)
